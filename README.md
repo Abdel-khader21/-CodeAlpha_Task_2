@@ -1,2 +1,2 @@
-# -CodeAlpha_Task_2
+# CodeAlpha_Task_2
 Phishing Awareness Training
